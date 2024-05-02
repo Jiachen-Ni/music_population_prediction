@@ -1,0 +1,43 @@
+# packages in environment at /home/s*******/.conda/envs/myenv:
+#
+# Name                    Version                   Build  Channel
+_py-xgboost-mutex         2.0                       cpu_0  
+bleach                    4.1.0              pyhd3eb1b0_0  
+boost-cpp                 1.82.0               hdb19cb5_2  
+bottleneck                1.3.5           py310ha9d4c09_0  
+catboost                  1.2             py310h06a4308_0  
+ipykernel                 6.25.0          py310h2f386ee_0  
+ipython                   8.15.0          py310h06a4308_0  
+ipython_genutils          0.2.0              pyhd3eb1b0_1  
+ipywidgets                8.0.4           py310h06a4308_0  
+jupyter                   1.0.0           py310h06a4308_7  
+jupyter_client            7.4.9           py310h06a4308_0  
+jupyter_console           6.6.3           py310h06a4308_0  
+jupyter_core              5.5.0           py310h06a4308_0  
+jupyter_server            1.13.5             pyhd3eb1b0_0  
+jupyterlab_pygments       0.1.2                      py_0  
+jupyterlab_widgets        3.0.9           py310h06a4308_0  
+libxgboost                1.7.3                h6a678d5_0  
+matplotlib                3.8.0           py310h06a4308_0  
+matplotlib-base           3.8.0           py310h1128e8f_0  
+matplotlib-inline         0.1.6           py310h06a4308_0  
+notebook                  6.5.4           py310h06a4308_1  
+notebook-shim             0.2.3           py310h06a4308_0  
+numpy                     1.26.2                   pypi_0    pypi
+pandas                    2.1.3                    pypi_0    pypi
+pcre                      8.45                 h295c915_0  
+pip                       23.3.1          py310h06a4308_0  
+py-xgboost                1.7.3           py310h06a4308_0  
+python                    3.10.13              h955ad1f_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+python-graphviz           0.20.1          py310h06a4308_0  
+python-tzdata             2023.3             pyhd3eb1b0_0  
+scikit-base               0.6.1                    pypi_0    pypi
+scikit-learn              1.3.2                    pypi_0    pypi
+scipy                     1.11.4                   pypi_0    pypi
+sktime                    0.24.1                   pypi_0    pypi
+testpath                  0.6.0           py310h06a4308_0  
+threadpoolctl             2.2.0              pyh0d69192_0  
+thundersvm-cpu            0.3.3                    pypi_0    pypi
+tk                        8.6.12               h1ccaba5_0  
+xgboost                   1.7.3           py310h06a4308_0  
